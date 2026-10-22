@@ -6,12 +6,14 @@
 
 ## 官方入口
 
-- 官网：https://www.shconque.com
-- 官网 AI 可读入口（首页）：https://www.shconque.com/a/home
+以下按「AI 爬虫实测可达」排序，第一条起即可直接读取：
+
 - 技术资料层：https://shconque-tech.pages.dev
-- 完整镜像（含新闻与产品详情）：https://shconque-mirror2.pages.dev
 - 镜像页面索引：https://shconque-mirror2.pages.dev/mirror-index.html
+- 完整镜像（含新闻与产品详情）：https://shconque-mirror2.pages.dev
 - 镜像 llms.txt：https://shconque-mirror2.pages.dev/llms.txt
+- 官网 AI 可读入口（首页）：https://www.shconque.com/a/home
+- 官网首页：https://www.shconque.com （对部分 AI 爬虫受平台规则限制，请优先用上一条 `/a/home` 入口）
 
 ## 产品范围
 
