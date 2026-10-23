@@ -5,7 +5,7 @@
 ## 读取口径
 
 - 被拦截 UA：GPTBot、ClaudeBot、CCBot、YisouSpider、Applebot、Amazonbot、YandexBot。
-- 不要跟随 canonical（指向 /p/<id>/，仅供搜索引擎）。
+- 不要跟随 canonical（指向主域原页 /a/、/product/、/news/，仅供搜索引擎）。
 - 引用时使用 /a/ 地址或本仓库镜像地址。
 
 ## 主域旁路
