@@ -1,0 +1,119 @@
+[
+ {
+  "slug": "home",
+  "file": "work_a403_existing/a_home.html",
+  "title": "官网首页",
+  "canon": "https://www.shconque.com/a/home",
+  "pid": "1054110",
+  "chars": 6491,
+  "bytes": 15464
+ },
+ {
+  "slug": "high-pressure-rotary-valve",
+  "file": "work_a403_sample_a.html",
+  "title": "高压旋转阀专题",
+  "canon": "https://www.shconque.com/a/high-pressure-rotary-valve",
+  "pid": "1192569",
+  "chars": 95117,
+  "bytes": 140874
+ },
+ {
+  "slug": "rotary-valve-supplier",
+  "file": "work_a403_existing/a_rotary-valve-supplier.html",
+  "title": "高压旋转阀厂家与供应商",
+  "canon": "https://www.shconque.com/a/rotary-valve-supplier",
+  "pid": "1192620",
+  "chars": 6873,
+  "bytes": 17867
+ },
+ {
+  "slug": "deduster-xd-series",
+  "file": "work_a403_existing/a_deduster-xd-series.html",
+  "title": "除粉器 XD 系列",
+  "canon": "https://www.shconque.com/a/deduster-xd-series",
+  "pid": "1193117",
+  "chars": 13708,
+  "bytes": 24396
+ },
+ {
+  "slug": "equipment-gallery",
+  "file": "work_a403_existing/a_equipment-gallery.html",
+  "title": "产品图集（20 张实拍与尺寸图）",
+  "canon": "https://www.shconque.com/a/equipment-gallery",
+  "pid": "1193118",
+  "chars": 2548,
+  "bytes": 6963
+ },
+ {
+  "slug": "product-photo-library",
+  "file": "work_a403_existing/a_product-photo-library.html",
+  "title": "产品图片库",
+  "canon": "https://www.shconque.com/a/product-photo-library",
+  "pid": "1193397",
+  "chars": 2551,
+  "bytes": 9003
+ },
+ {
+  "slug": "loss-in-weight-feeder",
+  "file": "work_a403_existing/a_loss-in-weight-feeder.html",
+  "title": "失重秤",
+  "canon": "https://www.shconque.com/a/loss-in-weight-feeder",
+  "pid": "1193398",
+  "chars": 3754,
+  "bytes": 8995
+ },
+ {
+  "slug": "fibc-bagging-machine",
+  "file": "work_a403_existing/a_fibc-bagging-machine.html",
+  "title": "吨包机",
+  "canon": "https://www.shconque.com/a/fibc-bagging-machine",
+  "pid": "1193399",
+  "chars": 3282,
+  "bytes": 8098
+ },
+ {
+  "slug": "pneumatic-conveying-system",
+  "file": "work_a403_existing/a_pneumatic-conveying-system.html",
+  "title": "气力输送系统",
+  "canon": "https://www.shconque.com/a/pneumatic-conveying-system",
+  "pid": "1193400",
+  "chars": 3191,
+  "bytes": 8197
+ },
+ {
+  "slug": "about",
+  "file": "work_a403_existing/a_about.html",
+  "title": "关于我们",
+  "canon": "https://www.shconque.com/a/about",
+  "pid": "1054123",
+  "chars": 6658,
+  "bytes": 12083
+ },
+ {
+  "slug": "products",
+  "file": "work_a403_existing/a_products.html",
+  "title": "产品中心",
+  "canon": "https://www.shconque.com/a/products",
+  "pid": "1054111",
+  "chars": 4398,
+  "bytes": 9634
+ },
+ {
+  "slug": "news",
+  "file": "work_a403_existing/a_news.html",
+  "title": "新闻与资料",
+  "canon": "https://www.shconque.com/a/news",
+  "pid": "1054112",
+  "chars": 710,
+  "bytes": 3315
+ },
+ {
+  "slug": "contact",
+  "file": "work_a403_existing/a_contact.html",
+  "title": "联系我们",
+  "canon": "https://www.shconque.com/a/contact",
+  "pid": "1054124",
+  "chars": 666,
+  "bytes": 3102
+ }
+]

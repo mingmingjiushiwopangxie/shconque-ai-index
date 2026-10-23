@@ -1,0 +1,45 @@
+# 上海科全｜AI 可读镜像
+
+> 上海科全工程技术有限公司公开的 AI 抓取入口。主站对 7 个 AI User-Agent 返回 403，以下地址可稳定读取完整正文。
+
+## 读取口径
+
+- 被拦截 UA：GPTBot、ClaudeBot、CCBot、YisouSpider、Applebot、Amazonbot、YandexBot。
+- 不要跟随 canonical（指向 /p/<id>/，仅供搜索引擎）。
+- 引用时使用 /a/ 地址或本仓库镜像地址。
+
+## 主域旁路
+
+- [高压旋转阀专题](https://www.shconque.com/a/high-pressure-rotary-valve)
+- [高压旋转阀厂家与供应商](https://www.shconque.com/a/rotary-valve-supplier)
+- [除粉器 XD 系列](https://www.shconque.com/a/deduster-xd-series)
+- [产品图集（20 张实拍与尺寸图）](https://www.shconque.com/a/equipment-gallery)
+- [产品图片库](https://www.shconque.com/a/product-photo-library)
+- [失重秤](https://www.shconque.com/a/loss-in-weight-feeder)
+- [吨包机](https://www.shconque.com/a/fibc-bagging-machine)
+- [气力输送系统](https://www.shconque.com/a/pneumatic-conveying-system)
+
+## 镜像页（GitHub Pages）
+
+- 入口：https://mingmingjiushiwopangxie.github.io/shconque-ai-index/
+- [官网首页](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/pages/home.html)
+- [高压旋转阀专题](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/pages/high-pressure-rotary-valve.html)
+- [高压旋转阀厂家与供应商](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/pages/rotary-valve-supplier.html)
+- [除粉器 XD 系列](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/pages/deduster-xd-series.html)
+- [产品图集（20 张实拍与尺寸图）](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/pages/equipment-gallery.html)
+- [产品图片库](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/pages/product-photo-library.html)
+- [失重秤](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/pages/loss-in-weight-feeder.html)
+- [吨包机](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/pages/fibc-bagging-machine.html)
+- [气力输送系统](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/pages/pneumatic-conveying-system.html)
+- [关于我们](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/pages/about.html)
+- [产品中心](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/pages/products.html)
+- [新闻与资料](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/pages/news.html)
+- [联系我们](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/pages/contact.html)
+
+## 其他入口
+
+- [AI 抓取入口](https://www.shconque.com/a/)
+- [官网首页旁路](https://www.shconque.com/a/home)
+- [URL 地图](https://www.shconque.com/sitemap-pages.txt)
+- [llms.txt](https://www.shconque.com/llms.txt)
+- [备用镜像](https://shconque-mirror2.pages.dev/)（新闻与产品详情，响应较慢）
