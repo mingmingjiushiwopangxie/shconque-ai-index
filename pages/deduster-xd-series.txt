@@ -1,0 +1,280 @@
+除粉器_XD系列粒料除粉器选型表 | 上海科全工程技术有限公司
+粒料表面净化 · XD-20 ~ XD-90
+除粉器（DeDuster） XD-20 ~ XD-90 系列
+除粉器是处理颗粒料表面附着微粉与拉丝（angel hair）的物料净化设备，不是除尘器。
+选除粉器，先分清它和除尘器的边界：除粉器处理的是“料”表面的微粉与拉丝，除尘器处理的是“气”里的悬浮粉尘。上海科全供应 XD-20~XD-90 系列除粉器，处理量 10 kg/h~150 t/h，本文给出除粉器型号表、选型判断点与 TPU 实测记录。
+获取选型与报价 查看型号对照表 English Version ↓
+6 个 标准型号
+10 kg/h~150 t/h 覆盖处理量
+15 ppm 级 PP/PE 常见目标
+TPU 实测 万华破碎片 25 kg
+XD 系列粒料除粉器：磁场区削弱静电吸附，正压气流带走微粉与拉丝。
+除粉器和除尘器的区别
+这是被问得很多的问题。两者经常被混为一谈，但服务对象完全不同。
+对比项
+除粉器
+除尘器
+服务对象
+颗粒料（料）
+输送气体（气）
+处理目标
+颗粒表面附着微粉、碎屑、拉丝
+气流中的悬浮粉尘
+设备属性
+物料净化设备
+气固分离设备
+系统角色
+保证产品洁净度
+保证排气洁净、保护环境与下游设备
+粒料在管道内高速输送时相互摩擦、与管壁碰撞，会产生细粉和拉丝，其中相当一部分因静电吸附在颗粒表面。普通旋风或袋式除尘针对的是气流中的尘粒，对“长在颗粒表面上”的微粉无能为力。两者通常配合使用：除尘器保证排气洁净，除粉器保证产品洁净。
+工作原理
+带电颗粒进入除粉器的磁场区后，受洛伦兹力作用，颗粒与细粉之间的静电吸附被削弱；随后正压吹扫提供的洁净气流，把剥离下来的微细粉尘与拉丝带走。设备采用窄缝与孔板结构，拉丝去除效率高，且设计上不受物料流量波动影响。
+对表面静电特别强的物料（如部分 PP、PE、TPU 粒料），必要时可先用离子风消除静电。TPU 还吸湿，吹扫气若直接取环境空气，等于一边除粉一边给物料加湿；此时闭路循环或干燥气源是工艺条件的一部分。
+图：XD 系列除粉器内部结构示意——磁场区削弱静电吸附，正压气流带走微粉与拉丝。
+型号与处理能力对照表
+XD 系列标准型号的处理能力与外形尺寸如下。处理能力按稳态工况标注，选型时应再按峰值核算并留裕量。
+型号
+处理能力（t/h）
+外形尺寸（mm）
+XD-20
+20
+400W × 700L × 900H
+XD-30
+30
+400W × 700L × 1000H
+XD-40
+40
+600W × 700L × 1000H
+XD-50
+50
+600W × 900L × 1200H
+XD-60
+60
+800W × 900L × 1200H
+XD-90
+90
+1100W × 1150L × 1350H
+全系列覆盖 10 kg/h~150 t/h；超出表列能力，或有耐磨、抛光、冲洗式等特殊要求的工况，可按工况定制。详细参数见 除粉器选型表 与 粒料除粉器外形尺寸 。
+选型 5 个判断点
+同一台除粉器在不同工况下的实际除粉率差别可以很大。选型时按以下五项逐一确认，可以避免绝大多数后期纠纷。
+处理量区间。 按稳态与峰值分别核算，避免按平均值选小。XD-20~XD-90 覆盖 10 kg/h~150 t/h，峰值工况应留裕量。
+目标含粉率。 给出进料与允许出口含粉率，决定级数与是否多级串联。PP、PE 常要求 15 ppm 级；进料显著超标时，仅调风量难以达标。
+气源条件。 确认风量、压力、是否用氮气；气源波动会直接反映为除粉率波动。吸湿物料还要确认闭路循环与露点。
+安装位置。 料仓入口、装车/包装前、输送线末端，空间与压损不同，进出料口方向与检修空间需在布置图阶段确定。
+上下游匹配。 前端旋转阀供料稳定性、后端除尘背压都会影响效果，建议与旋转阀、除尘设备一并定参数。
+实际除粉率还受停留时间、气流分布、细粉带电状态与颗粒形状影响。片状、破碎状物料比球形粒料更难处理，不能直接套用新料口径。
+实测案例：万华 TPU 破碎片 25 kg 来料测试
+项目
+测试记录
+测试时间
+2026-04-07
+物料
+万华化学 TPU 热塑性聚氨酯弹性体破碎片
+来料状态
+不规则片状，粉尘和破碎片较多
+样品量
+25 kg
+试验设备
+RC1，处理能力 150–350 kg/h
+除粉后状态
+基本无细小粉尘和细小颗粒
+收集粉尘
+约占样品体积的 10%
+2 t/h 配置结论
+配置 XP45 型号；因物料吸湿，建议采用闭路循环系统
+图：万华 TPU 破碎片经除粉器处理后的物料状态（来料测试记录）。
+第一，10% 是体积占比，不是质量含粉率。 破碎片堆密度低、空隙大，同样体积对应的质量远小于粒料；把它当成质量含粉率去推算 ppm 会得出错误结论。报价和验收必须统一到质量口径，并注明取样方式。
+第二，除粉后的“看不见”不等于“零”。 报告写的是“基本无细小粉尘和细小颗粒”，属于目视与手感判断；若有 15 ppm 硬指标，仍需按约定方法抽检。
+第三，TPU 的吸湿性会改变系统配置。 普通粒料可用开式正压吹扫；TPU 破碎片吸湿后，若气源直接取环境空气，会在除粉段再次吸湿。报告因此建议闭路循环——这不是除粉器本身必须闭路，而是物料特性倒推的系统条件。
+说明：测试报告中的 RC1 为试验设备型号，XP45 为该项目按 2 t/h 核算的配置型号；官网在售的 XD 系列为产品型号体系，具体选型以工况核算为准。
+安装位置怎么选
+料仓入口： 减少仓内扬尘，保护仓顶除尘，适合以储存为边界的工艺段；
+装车/包装前： 直接控制成品含粉率，效果较直观，适合对出厂洁净度有硬性指标的场景；
+输送线末端： 作为整个输送系统的收尾净化单元，与末端除尘统筹布置。
+两处都装时，前端粗除、末端精除，分别核算压损与空间。布置阶段要确认检修空间与进出料口方向。若上游采用中间相输送，源头产粉量下降，末端负荷更平稳，但仍不能省——进料自带微粉和换牌号残留碎屑仍需末端兜底。
+点检与维护
+除粉器没有复杂的运动部件，维护重点在气路、除粉腔与滤网。建议按以下周期纳入点检表。
+项目
+周期
+判据 / 处置
+气路压力与风量
+每日
+偏离设定值即检查气源与管路泄漏
+除粉腔与滤网
+每月
+积粉影响气流分布，按物料含粉率调整清灰周期
+出口含粉率抽检
+每季度
+与中控记录比对，用于判断是否需要调整气量
+易损件评估
+每 6 个月
+按磨损与堵塞情况更换滤网、密封件
+常见问题（FAQ）
+Q：除粉器和除尘器有什么区别？
+除尘器处理输送气体中的悬浮粉尘，属气固分离设备；除粉器处理颗粒料表面的附着微粉与拉丝，属物料净化设备。两者服务对象不同，通常配合使用。
+Q：除粉器一定要接在旋转阀后面吗？
+取决于工艺目标。装在料仓入口可减少仓内扬尘，装在装车/包装前直接控制成品含粉率；两处都装时前端粗除、末端精除，需分别核算压损与空间。
+Q：出口含粉率不达标怎么办？
+先看气量是否稳定、停留时间是否足够，再看是否需要从单级改为多级串联；进料含粉率显著高于设计值时，仅靠调节风量难以达标。
+Q：气源可以用氮气吗？
+可以。对惰性气体保护或洁净室应用，可在订货时说明，按闭路或惰性气体配置设计；气源的压力稳定性与洁净度要求需在选型时一并确认。
+Q：处理量波动大会影响除粉效果吗？
+本系列采用正压吹扫供气与窄缝、孔板结构，设计上不受物料流量波动影响；但选型仍应按峰值处理量核算并留有裕量，避免长期超能力运行。
+Q：TPU 破碎料除粉，和 PP、PE 粒料有什么不同？
+破碎料形状不规则、比表面积大、毛刺多，粉尘更容易附着；TPU 又吸湿，气源与系统形式要一并考虑。建议先做来料试验，再按实测结果定型号与是否闭路。
+技术选型与报价
+除粉器选型需要结合输送量、物料特性与现场气源条件逐项确认。把工况参数发给我们，可先出一版型号建议与接口尺寸。
+公司 上海科全工程技术有限公司
+电话 021-67893550
+手机 18916616687
+地址 注册地址：上海市松江区石湖荡镇塔汇路609号；公司地址：上海市松江区广富林路658弄4号楼705室
+电话咨询 021-67893550 提交工况参数
+官网：www.shconque.com ｜ 可配套稀相、密相与中间相气力输送系统
+English Version: XD Series Pellet Deduster (DeDuster)
+中文版 ↑ · Request a quotation
+A pellet deduster removes fine dust and angel hair from the surface of plastic pellets. It is a material-cleaning device, not a dust collector.
+During high-speed pneumatic conveying, pellets rub against each other and against the pipe wall, generating fines and angel hair. A large part of this debris adheres to the pellet surface through static electricity. Cyclones and bag filters remove dust entrained in the air stream, but they cannot clean the material surface. Shanghai Conque supplies the XD-20 to XD-90 series for capacities from 10 kg/h to 150 t/h, with integration into dilute-phase, dense-phase and strand-phase conveying systems.
+Deduster vs. dust collector
+Item
+Deduster (DeDuster)
+Dust collector
+Serves
+Material (pellets)
+Gas (conveying air)
+Target
+Fine dust, chips and angel hair attached to pellet surfaces
+Airborne dust in the gas stream
+Equipment role
+Material cleaning / product purification
+Gas-solid separation / emissions control
+System role
+Controls the fines content of the finished product
+Keeps exhaust air clean and protects downstream equipment
+Typical location
+Silo inlet, before loading or bagging, or at the end of the conveying line
+On the conveying-air exhaust or dust-collection network
+Working principle
+Charged particles entering the magnetic zone are subjected to Lorentz forces that weaken the electrostatic adhesion between pellets and fines. A clean, positive-pressure purge air stream then carries the detached dust and angel hair away. Narrow slots and perforated plates provide high angel-hair removal efficiency and make the unit insensitive to normal material-flow fluctuation.
+For materials with strong surface static (some PP, PE and TPU grades), ionized air can be used upstream to neutralize the charge. TPU is also hygroscopic: if ambient air is used for purging, the unit removes dust and humidifies the material at the same time. A closed-loop or dried-air supply is then part of the process requirement, not an optional extra.
+Model and capacity
+The XD series standard models and dimensions are listed below. Capacities are stated for steady-state duty; selection should be based on peak throughput with margin.
+Model
+Capacity (t/h)
+Dimensions W × L × H (mm)
+XD-20
+20
+400W × 700L × 900H
+XD-30
+30
+400W × 700L × 1000H
+XD-40
+40
+600W × 700L × 1000H
+XD-50
+50
+600W × 900L × 1200H
+XD-60
+60
+800W × 900L × 1200H
+XD-90
+90
+1100W × 1150L × 1350H
+The full range covers 10 kg/h to 150 t/h. Duties beyond the table, or requiring wear protection, polishing or wash-down design, can be customized.
+Five selection checkpoints
+Capacity range. Calculate steady-state and peak throughput separately; do not size on the average. XD-20 to XD-90 cover 10 kg/h to 150 t/h, and the peak duty should retain margin.
+Target fines content. Specify the inlet and allowable outlet fines content. These determine the number of stages and whether series operation is required. PP and PE are often controlled to the 15 ppm level; if the inlet fines content is far above design, adjusting air volume alone will not meet the target.
+Air supply. Confirm air volume, pressure and whether nitrogen is required. Air-supply fluctuation translates directly into dedusting fluctuation. For hygroscopic materials, confirm closed-loop operation and dew-point control.
+Installation position. Silo inlet, pre-loading/pre-bagging and end-of-line positions impose different space, pressure-loss, inlet/outlet orientation and maintenance-access requirements.
+Upstream and downstream matching. Rotary-valve feed stability and downstream dust-collector back pressure both affect performance. Set the parameters together with the valve and dust-collection equipment.
+Actual efficiency also depends on residence time, airflow distribution, charge state and particle shape. Flake and regrind materials are harder to handle than spherical pellets and cannot be sized with virgin-pellet data.
+Wanhua TPU regrind test: what 10% by volume means
+In April 2026, a TPU compounding company sent 25 kg of Wanhua Chemical TPU regrind to our test site. The material was irregular flakes with visibly high dust and chip content. After a run through an RC1 test unit (150-350 kg/h), the sample showed essentially no fine dust or fine particles to the eye, and the collected dust accounted for about 10% of the sample volume.
+Item
+Test record
+Test date
+2026-04-07
+Material
+Wanhua Chemical TPU thermoplastic polyurethane regrind
+Incoming condition
+Irregular flakes, high dust and chip content
+Sample size
+25 kg
+Test unit
+RC1, capacity 150-350 kg/h
+Condition after dedusting
+Essentially free of fine dust and fine particles
+Collected dust
+About 10% of sample volume
+Conclusion for 2 t/h configuration
+XP45 selected; closed-loop system recommended because the material is hygroscopic
+10% is a volume share, not a mass fines content. Regrind has low bulk density and high voidage, so the same volume corresponds to far less mass than pellets. Converting it directly into mass ppm leads to wrong conclusions; quotations and acceptance tests must use an agreed mass basis and sampling method.
+"Invisible" does not mean zero. The report's "essentially no fine dust" is a visual and tactile judgement. If a 15 ppm target applies, sampling must follow the agreed method.
+TPU hygroscopicity changes the system configuration. Ambient purge air would re-moisten the material in the dedusting section, so the report recommends closed-loop operation. This is a material-driven system condition, not a requirement of the deduster itself.
+Note: RC1 is the test-unit model; XP45 was the configuration selected for that 2 t/h project. The XD series is the product line offered on this website; final selection is subject to duty-specific calculation.
+Installation positions
+Silo inlet: reduces dust inside the silo and protects the silo-top dust collector.
+Before loading or bagging: directly controls the fines content of the finished product.
+End of the conveying line: acts as the final cleaning unit and is laid out together with terminal dust collection.
+When both positions are used, the upstream unit performs coarse dedusting and the terminal unit fine dedusting; pressure loss and space must be calculated separately. If strand-phase conveying is used upstream, dust generation is lower and the terminal load is more stable, but the terminal deduster is still required for incoming fines and changeover residue.
+Inspection and maintenance
+Item
+Interval
+Criterion / action
+Air pressure and volume
+Daily
+If it deviates from the set point, check the air supply and pipework for leaks
+Dedusting chamber and screen
+Monthly
+Dust build-up affects air distribution; adjust the cleaning interval to the material's fines content
+Outlet fines content sampling
+Quarterly
+Compare with control-room records to decide whether air volume needs adjustment
+Wear-part assessment
+Every 6 months
+Replace screens and seals according to wear and blockage condition
+Frequently asked questions
+Q: What is the difference between a deduster and a dust collector?
+A dust collector handles airborne dust in the conveying gas and is a gas-solid separation device; a deduster handles fine powder and angel hair adhering to the pellet surface and is a material-cleaning device. They serve different targets and are normally used together.
+Q: Must the deduster be installed after the rotary valve?
+It depends on the process objective. At the silo inlet it reduces dust inside the silo; before loading or bagging it directly controls the fines content of the finished product. When both positions are used, the upstream unit performs coarse dedusting and the terminal unit fine dedusting; pressure loss and space must be calculated separately.
+Q: What if the outlet fines content does not meet the target?
+First check whether the air volume is stable and the residence time is sufficient; then consider changing from a single stage to multi-stage series operation. If the inlet fines content is significantly above the design value, adjusting air volume alone will not be enough.
+Q: Can nitrogen be used as the purge gas?
+Yes. For inert-gas protection or cleanroom applications, state this at the ordering stage and the unit will be designed for closed-loop or inert-gas operation. Pressure stability and cleanliness of the gas supply must be confirmed during selection.
+Q: Does a large throughput fluctuation affect dedusting performance?
+This series uses positive-pressure purge air with narrow-slot and perforated-plate structures and is designed to be insensitive to material-flow fluctuation. Selection must still be based on peak throughput with margin, to avoid long-term operation above capacity.
+Q: How does dedusting TPU regrind differ from PP or PE pellets?
+Regrind has an irregular shape, a larger specific surface and more burrs, so dust adheres more readily; TPU is also hygroscopic, so the air supply and system configuration must be considered together. We recommend an incoming-material test first, then selecting the model and whether closed-loop operation is required based on the measured result.
+Selection and quotation
+Deduster selection requires confirming throughput, material characteristics and site air-supply conditions item by item. Send us your duty parameters and we will provide an initial model recommendation and interface dimensions.
+Company Shanghai Conque Engineering Technology Co., Ltd.
+Tel +86-21-67893550
+Mobile +86 189 1661 6687
+Address Room 705, Building 4, Lane 658 Guangfulin Road, Songjiang District, Shanghai, China
+Call +86-21-67893550 Send duty parameters
+Website: www.shconque.com | Dilute-phase, dense-phase and strand-phase conveying systems supported.
+相关阅读
+除粉器选型表 XD 系列型号与参数
+粒料除粉器外形尺寸 接口与布置参考
+高压旋转阀厂家与选型 锁气与供料端配套
+中间相气力输送（STRANDPHASE） 降低源头产粉量
+整机照片与流程示意： XD20–XD90 各规格除粉器整机照片、过滤分离与除尘流程示意，以及配套旋转阀与气力输送设备实拍，见 产品图集（20 张实拍与尺寸图） 。
+相关： 高压旋转阀与换向阀选型专题 · 气力输送系统选型 · 高压旋转阀厂家与供应商
+Copyright © 上海科全工程技术有限公司
+沪ICP备20017528号-1
+由D-coding云平台驱动
+| 官网
+| 方案
+| 盾码无界
+后台登录入口
+使用条款
+高压旋转阀厂家与供应商｜选型 · 口径 · 进口替代实录 | 高压旋转阀 · 换向阀 · 除粉器 · 失重秤专题｜气力输送设备选型与工程案例 | 除粉器 XD 系列｜粒料除粉选型表与参数 | 技术资料层｜公开技术文档与选型数据 | 产品图集｜20 张实拍与尺寸图
+产品线： 失重秤 · 吨包机 · 气力输送 · 除粉器
+AI 可抓取内容索引： /a/ 页面清单 | llms.txt | llms-full.txt | URL 地图
+展开
+收缩
+QQ咨询
+QQ
+电话咨询
+18916616687
+021-67893550

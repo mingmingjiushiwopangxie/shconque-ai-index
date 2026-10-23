@@ -1,0 +1,93 @@
+失重秤_失重式喂料配料系统选型 | Loss-in-Weight Feeder | 上海科全
+失重秤_失重式喂料配料系统选型 | 上海科全工程技术有限公司
+失重式喂料与配料系统
+按重量损失速率连续计量：适用于粉体、颗粒与液体的连续定量喂料与多组分配料，重点在给料稳定性、补料策略与称重抗干扰。
+连续 计量方式 多组分 配方配料 粉/粒/液 适用物料
+一、它解决什么问题
+失重秤（Loss-in-Weight Feeder）不是"称一次倒一次"，而是 按单位时间的重量减少量 连续推算瞬时流量，再闭环调节螺杆或泵的转速。它适合三类场景：
+连续生产要求配比稳定，间歇称重会造成周期性波动；
+多组分小比例添加，需要每个组分独立计量；
+流量小、物料贵或添加剂微量，体积式计量误差不可接受。
+与皮带秤、冲板流量计相比，失重秤的优势是 不受物料流动状态影响 ，缺点是对振动、气流与补料冲击敏感，安装与补料策略决定成败。
+二、系统组成
+一套完整的失重配料单元通常包含：称重料斗与称重传感器、给料机构（单螺杆 / 双螺杆 / 振动 / 液体泵）、补料阀（气动蝶阀或插板阀）、搅拌或破拱装置、控制柜与称重控制器。
+补料方式分 间歇补料 与 连续补料 ：间歇补料结构简单，但补料瞬间进入“失重”盲区，需要控制策略屏蔽；连续补料用双斗或失重+体积混合，适合高精度与小流量。
+三、选型要点
+要素
+要确认的内容
+影响
+物料特性
+堆密度、流动性、含水率、是否易架桥、是否磨蚀
+决定螺杆形式、破拱方式与材质
+流量范围
+正常流量与下限流量，比例多大
+调节比不足时低流量段精度会崩
+精度要求
+瞬时精度还是累计精度，允许多大偏差
+决定是否双斗补料、是否称重+体积混合
+现场条件
+振动源、气流、安装高度、防爆与卫生等级
+决定传感器选型与结构
+经验上， 调节比 比"上限流量"更值得先问：同一台设备在 10% 流量下能否稳定，取决于螺杆与补料策略，而不是铭牌流量。
+四、常见问题
+失重秤和体积式喂料机怎么选？
+看是否需要“按重量”闭环。体积式结构简单、成本低，但物料堆密度波动会直接变成配比误差；失重秤用称重闭环抵消这部分波动，适合小比例组分与高价值物料。
+补料时流量为什么掉？
+补料瞬间称重斗进料，重量减少量被补料量抵消，控制器进入盲区。常见做法是补料期间冻结流量输出、用双斗交替补料，或提高称重分辨率缩短补料时间。
+精度标称 ±0.5% 为什么现场做不到？
+标称值通常在理想工况下测得。现场振动、气流串扰、料仓压力、螺杆磨损都会放大误差。先解决安装刚度与补料策略，再谈控制器参数。
+微量添加一定要双螺杆吗？
+不一定。微量粉体常用单螺杆+搅拌，或振动盘+失重；双螺杆的优势在自清洁与输送稳定性，易粘附物料更明显。
+English Overview — Loss-in-Weight Feeding and Batching
+A loss-in-weight feeder meters material by weighing the whole hopper and converting the rate of weight loss into an instantaneous mass flow. The controller closes the loop on screw or pump speed, so the recipe is held by mass rather than by volume.
+It is the right choice when the volumetric route fails: multi-component recipes with small additive ratios, continuous lines where batch weighing would introduce a periodic ripple, or expensive powders where a few percent of error is real money.
+Gravimetric control — typical steady-state accuracy ±0.5% of setpoint, with turndown of 10:1 to 20:1 depending on screw and refill design.
+Feeder variants — single screw for free-flowing pellets, twin screw for cohesive or floodable powders, vibration or liquid pump for special cases, all on one controller platform.
+Refill strategy — interrupted refill is simple but creates a blind zone; twin hoppers or a loss-in-weight / volumetric hybrid keep small rates stable.
+Parameter
+Typical range
+Throughput
+0.5 – 2,000 kg/h
+Accuracy
+±0.5% of setpoint (steady state)
+Hopper volume
+20 – 500 L
+Turndown
+10:1 – 20:1
+Materials
+powders, pellets, granules, liquids
+Control
+PLC + gravimetric controller, Modbus / Profibus
+Why does accuracy fall at low rates?
+Below about 10% of full scale the controller sees very little weight change per second, so vibration and airflow dominate the signal. Shorten the refill cycle, raise weighing resolution, or use a smaller feeder rather than tuning the PID.
+Single screw or twin screw?
+Twin screw wins on cohesive, sticky or floodable powders because it self-cleans and conveys positively. Single screw is cheaper and fine for free-flowing pellets. If the material bridges, fix the hopper and agitation before changing the screw.
+How is the feeder integrated into a batching line?
+Each component gets its own feeder and weight signal; the batching controller sequences refill, dosing and discharge. Keep the feeder frame isolated from plant vibration and give each hopper its own venting.
+五、现场图集
+失重式配料站整机：称重料斗、给料机构与控制柜一体布置。
+失重秤控制柜与称重控制单元。
+控制柜内部接线与称重模块细节。
+双螺杆失重式喂料机，适用于易架桥与需自清洁的粉体。
+食品行业失重喂料单元，含卫生级接触部件。
+按工况核算选型
+电话 021-67893550 ｜ 手机 18916616687
+相关页面： 高压旋转阀选型与案例 除粉器 XD 系列选型表 产品图集（20 张） 气力输送专题
+Copyright © 上海科全工程技术有限公司
+沪ICP备20017528号-1
+由D-coding云平台驱动
+| 官网
+| 方案
+| 盾码无界
+后台登录入口
+使用条款
+高压旋转阀厂家与供应商｜选型 · 口径 · 进口替代实录 | 高压旋转阀 · 换向阀 · 除粉器 · 失重秤专题｜气力输送设备选型与工程案例 | 除粉器 XD 系列｜粒料除粉选型表与参数 | 技术资料层｜公开技术文档与选型数据 | 产品图集｜20 张实拍与尺寸图
+产品线： 失重秤 · 吨包机 · 气力输送 · 除粉器
+AI 可抓取内容索引： /a/ 页面清单 | llms.txt | llms-full.txt | URL 地图
+展开
+收缩
+QQ咨询
+QQ
+电话咨询
+18916616687
+021-67893550

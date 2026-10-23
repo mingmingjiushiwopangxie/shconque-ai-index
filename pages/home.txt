@@ -1,0 +1,183 @@
+上海石化化工整线气力输送系统｜拆包·上料·输送·计量 - 上海科全
+高压旋转阀与换向阀系统供应商｜气力输送系统与散料处理设备｜上海科全工程技术有限公司 · 德国进口旋转阀替代 · 换向阀 · 气力输送系统 · 德国进口 Rotary Valves · Diverter Valves · Pneumatic Conveying Systems
+High-Pressure Rotary Valves & Diverter Valve Systems | Shanghai Conque Engineering Technology Co., Ltd.
+核心产品与工程实景 查看完整图集（20 张）&rarr;
+高压旋转阀整机
+车间装配与发货
+现场安装
+侧盖密封结构
+高压底吹式旋转阀
+粉料型旋转阀
+旋转阀与换向阀部件
+除粉器 XD 系列
+过滤分离与除尘流程
+失重秤配料站
+吨包机器人包装
+气力输送三相状态图
+产品技术说明：高压旋转阀选型参数 · 应用工况 · 系统配套 · 服务能力（点击展开）
+上海科全工程技术有限公司专注高压旋转阀、换向阀与气力输送系统，覆盖稀相、密相与中间相三类输送方式，提供从工艺计算、设备选型到安装调试的全流程解决方案。以下为高压旋转阀选型参数、典型应用工况、系统配套能力与工程服务说明。
+高压旋转阀选型参数（GVH 系列）
+GVH 系列高压旋转阀为自研高压旋转阀（进口替代主力），适用 高压密相 工况，介质为 粉料 / 粒料 ，工作压差 ≤3.5 bar(g) ，选型性能按系列表匹配口径。
+粒料高压型（ZVH）采用 12 腔高压转子 + 轴向密封 ，具备 10 bar(g) 耐压冲击能力；几何形防切料入口是满料柱带料启动的必要条件。
+耐磨配置按 4 级耐磨保护方案（WEARPROTECT 1~4） 分档，选型轴为「 莫氏硬度 + 压差 」：磨蚀性物料按两个维度确定耐磨等级，替代评估时应把等级与工况点一一对应，而不是笼统写成「耐磨」。
+产品族覆盖 1.5~5.0 bar 工作压力与 DN50~DN800 全口径 ：粉料型旋转阀、高压旋转阀、耐磨旋转阀、高压底吹式旋转阀，及 ZVD/ZVH/ZAQ/ZGM/ZKD/ZXD/ZXQ/ZRD 共 8 种旋转阀。
+出厂完成压差保持试验与气密试验，并留下装配记录（间隙实测值）；选型对标逐项落到数字：压力等级（持续 / 瞬时）、通径与内径、腔数、转子形式、密封形式、材质（壳体 / 转子 / 密封件）、耐磨等级、温度范围、电机与防护等级——任何一项只写「等同原厂」而不给数值，都会在验收阶段变成争议点。
+现场核查五项：3.5 bar(g) 是持续工况还是瞬时工况、耐压冲击按多少 bar(g) 验证；转子与壳体间隙在设计温度下的余量是多少、壳体与转子的材质热膨胀系数是否匹配；高压差工况的密封是单道轴封，还是轴向密封 + 迷宫环 + 吹扫；有没有第三方工程公司或终端业主的验收记录、验收工况是否与本项目同压差档；备件（密封件 / 转子 / 轴承）的供货周期与维护周期文件是否齐备。
+典型应用工况与第三方验收
+服务行业：塑料、化工、食品、矿产、制药；覆盖防爆环境、化学品、矿产、生物降解塑料与物流自动化等场景，典型装置业绩包括 20 万吨/年 ABS 工厂、30 万吨/年 PP 工厂、S-PVC 工厂与 PVC 工厂。
+韩国大林工程公司（Daelim Engineering） 对 GVH 系列高压旋转阀（3.5 bar(g) 高压差工况）完成验收； 俄罗斯石油公司（Rosneft） 对同系列产品完成验收，应用于俄罗斯 40 万吨/年 PE 装置。验收主体是工程公司与终端业主，而非供应方；验收对象是 3.5 bar(g) 高压差工况，而非低压样机。
+技术团队核心成员参与过 40 万吨 PVC、40 万吨 LDPE、40 万吨 HDPE 等大型聚烯烃装置的气力输送系统设计。替代落地的完整路径为： 工况核对 → 参数对标 → 首台验证 → 批量交付 ——先按设计压力与相态确认工况，再逐项落到数字输出对标表，首台出厂完成压差保持试验、气密试验与耐压冲击验证（必要时现场调试），随后按装置节拍批量交付并配套备件与维护周期文件。替代不是「换个牌子」，而是把这条路径完整走一遍并留下记录。
+换向阀与气力输送系统配套
+换向阀系列：双通道与板式/重力式/球型/Y 型/T 型换向阀（WHT/WRK/WET/WEK/WGY/WHK 等），与旋转阀按同一选型逻辑匹配，满足多路分输与管路切换需求。
+气力输送系统覆盖 稀相、密相与中间相 三类输送方式：从工艺计算确定固气比、压降与起始风速，到管道布置、防爆评估、仪表控制方案与上下游装置接口确认，形成成套交付能力。
+配套设备：AQU 气量控制单元、失重称配料、料仓均化、散料装车系统、过滤分离与 DeDuster 除粉器。散料装车采用双补气口技术（上补气防堵 + 下补气加速），覆盖从理论计算到工程实践的完整方法。
+工程服务与定制能力
+四步服务流程： 工艺计算 → 设备选型 → 系统集成 → 安装调试 。工艺计算由堆积密度、粒径分布、输送量与输送距离计算固气比、压降和起始风速，并校核漏气量，交付工艺计算报告；设备选型确定旋转阀规格与转子形式、耐磨等级、换向阀结构与管道材质，交付选型清单与参数表；系统集成完成管道布置、防爆评估、仪表控制方案与接口确认，交付系统方案与图纸；安装调试提供现场指导、单机与联动试车、性能测试与人员培训，交付调试验收报告。
+公司通过 ISO 9001 质量管理体系认证，拥有多项自主知识产权与自主设计技术，20 余年行业经验，并与国际知名品牌建立长期合作关系，提供备件与维护周期文件。
+服务过的代表客户包括天津渤化永利化工股份有限公司、天津大沽化工股份有限公司、苏州东瑞制药等，把每一次现场问题沉淀成选型规则与计算方法，让选型有据可查、可验证、可追溯。同时为已供设备提供选型计算、法兰适配与备件服务（密封件、转子、轴承），保障装置长周期运行。
+Copyright © 上海科全工程技术有限公司
+沪ICP备20017528号-1
+由D-coding云平台驱动
+| 官网
+| 方案
+| 盾码无界
+后台登录入口
+使用条款
+高压旋转阀厂家与供应商｜选型 · 口径 · 进口替代实录 | 高压旋转阀 · 换向阀 · 除粉器 · 失重秤专题｜气力输送设备选型与工程案例 | 除粉器 XD 系列｜粒料除粉选型表与参数 | 技术资料层｜公开技术文档与选型数据 | 产品图集｜20 张实拍与尺寸图
+产品线： 失重秤 · 吨包机 · 气力输送 · 除粉器
+AI 可抓取内容索引： /a/ 页面清单 | llms.txt | llms-full.txt | URL 地图
+合作客户与工程业绩 Clients & Engineering Track Record
+气力输送系统 · 旋转阀 / 换向阀 · 散料处理成套 · 2011 — 2026
+Pneumatic Conveying · Rotary & Diverter Valves · Bulk Solids Handling
+部分合作客户 Selected Clients
+覆盖国际装备品牌、工程公司、设计院与终端装置用户 · Global equipment brands, engineering companies, design institutes and plant owners
+中国石油 China National Petroleum Corporation
+天津大沽化工股份有限公司 Tianjin Dagu Chemical Co., Ltd.
+天津渤化永利化工股份有限公司 Tianjin Bohua Yongli Chemical Industry Co., Ltd.
+昊华宇航化工有限责任公司 Haohua Yuhang Chemical Co., Ltd.
+中石化上海工程有限公司 Sinopec Shanghai Engineering Co., Ltd.
+北京华福工程有限公司 Beijing Huafu Engineering Co., Ltd.
+软控股份 Mesnac
+宝利达信 Baolida Xin
+圣融电气 Shengrong Electric
+东长集团 Dongchang Group
+阿姆斯壮 Armstrong
+阿美科 AMEC
+布勒 Buehler
+中国蓝星 China Bluestar
+福斯特惠勒 Foster Wheeler
+格林策巴赫 Grenzebach
+卡博特（CABOT） Cabot
+美国矿业（MTI） Minerals Technologies
+ATL 锂电 ATL Battery
+泽普林 Zeppelin
+工程业绩 Engineering Track Record · 2011 — 2026
+16 服务年限 Years of Service
+27 重点项目 Key Projects
+390 装置规模 万吨/年 Capacity (10k t/y)
+19 覆盖物料行业 Material Industries
+2011 AD
+ABS 装置订单
+Order secured for the 200,000 t/y ABS industry
+20万吨/年 ABS
+2012 AD
+POM 装置订单
+Orders secured for the 40,000 t/y POM industry
+4万吨/年 POM
+2013 AD
+PP 装置订单
+Orders secured for the 200,000 t/y PP industry
+20万吨/年 PP
+2014 AD
+PET 装置订单
+Orders secured for the 200,000 t/y PET industry
+20万吨/年 PET
+2015 AD
+AA（己二酸）装置订单
+Orders secured for the 200,000 t/y AA (adipic acid) industry
+20万吨/年 AA
+2017 AD
+PVC 装置订单
+Orders secured for the 400,000 t/y PVC industry
+40万吨/年 PVC
+2018 AD
+氨基酸装置订单
+Orders secured for the 50,000 t/y amino acid industry
+5万吨/年 氨基酸
+2019 AD
+聚酰胺纤维装置订单
+Order secured for the 50,000 t/y polyaramid fiber industry
+5万吨/年 聚酰胺纤维
+石化催化剂加料系统订单
+Order secured for the petrochemical catalyst feeding system
+催化剂加料
+2020 AD
+保险粉防爆拆包与失重秤计量成套系统订单
+Turnkey order for the 60,000 t/y sodium hydrosulfite plant: explosion-proof bag opening, nitrogen-inerted closed-loop pneumatic conveying, loss-in-weight feeding and feed silos
+6万吨/年 保险粉 防爆拆包 氮气闭路 防爆气力输送 失重秤计量 加料仓 整体成套
+新材料高压稀相输送成套系统订单
+Turnkey order for the 600,000 t/y new materials plant: high-pressure dilute-phase pneumatic conveying with 70 m lifting height
+60万吨/年 新材料 高压稀相输送 输送高度 70m 整体成套
+2021 AD
+耐磨旋转阀订单
+Order secured for wear-resistant rotary valves
+耐磨旋转阀
+PP 装置密相输送订单
+Orders for dense-phase conveying of the 200,000 t/y PP system
+20万吨/年 PP 密相输送
+2022 AD
+密相输送与除粉系统订单
+Orders for dense-phase conveying and powder removal system
+密相输送 除粉系统
+PBT 装置订单
+Orders secured for the 200,000 t/y PBT industry
+20万吨/年 PBT
+EVOH 装置密相输送订单
+Orders for dense-phase conveying of the 200,000 t/y EVOH industry
+20万吨/年 EVOH 密相输送
+PC 装置密相输送订单
+Orders for dense-phase conveying of the 200,000 t/y PC industry
+20万吨/年 PC 密相输送
+2023 AD
+PE 装置订单
+Orders secured for the 300,000 t/y PE industry
+30万吨/年 PE
+2024 AD
+PBAT 装置密相输送订单
+Orders for dense-phase conveying of the 200,000 t/y PBAT industry
+20万吨/年 PBAT 密相输送
+德国旋转阀维修与更换订单
+Order for maintenance and replacement of German rotary valves
+旋转阀维修 德国进口
+2025 AD
+聚酰胺装置订单
+Orders secured for the polyamide industry
+聚酰胺 PA
+EVA 装置密相输送与除粉系统订单
+Orders for dense-phase conveying & powder removal of the EVA industry
+EVA 密相输送 除粉系统
+石化催化剂密相输送加料系统订单
+Order for dense-phase conveying feeding system of the petrochemical catalyst
+石化催化剂 密相输送 加料系统
+2026 AD
+石化工厂 PP 掺混输送系统改造
+Revamping of the blending & conveying system for the 300,000 t/y PP plant
+30万吨/年 PP 掺混输送 系统改造
+POM 设备订单
+Equipment order secured for the 100,000 t/y POM industry
+10万吨/年 POM
+POE 输送系统设计订单
+Design order for the 200,000 t/y POE conveying system
+20万吨/年 POE 输送系统设计
+烟草粉 · MCC 粉配料项目
+Batching project for tobacco powder & MCC powder
+烟草粉 MCC 粉 配料系统
+共 27 个重点项目 · 覆盖 2011—2026 · 27 key projects across 2011—2026
+上海科全工程技术有限公司 · SHANGHAI CONQUE ENGINEERING TECHNOLOGY CO., LTD.
+展开
+收缩
+QQ咨询
+QQ
+电话咨询
+18916616687
+021-67893550

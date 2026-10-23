@@ -1,0 +1,97 @@
+气力输送系统_稀相密相输送选型 | Pneumatic Conveying System | 上海科全
+气力输送系统_稀相密相输送选型与工程案例 | 上海科全工程技术有限公司
+气力输送系统：稀相、中间相与密相
+同一套物料，风速选高了磨碎、选低了堵管；气力输送的核心不是“能不能送”，而是“用什么状态送、压损多少、磨损多大”。
+三相 输送状态 正压/负压 两种布置 按物料试验 定参数
+一、三种输送状态
+按料气比与风速，气力输送大致分三段： 稀相 （颗粒悬浮、风速高、磨损与破碎风险大）、 中间相 （不稳定区，容易脉冲与堵管）、 密相 （低速、高料气比、磨损小但压损高）。
+选型时先定状态，再定气源与管径；反过来做（先买风机再配管）通常会在调试阶段返工。
+二、系统组成
+气源：罗茨风机、螺杆压缩机或真空泵，含储气罐与干燥过滤；
+供料：旋转阀、发送罐（仓泵）或文丘里；
+管路：直管、弯头、换向阀、助推器；
+末端：分离器、除尘器、料仓与排气处理。
+弯头是磨损与压损的主要来源：能少一个弯就少一个，必须拐弯时优先大曲率半径。
+三、怎么选
+条件
+倾向
+距离短、产能大、物料不怕破碎
+稀相正压，系统简单、投资低
+物料易碎、易磨蚀、要求低破碎
+密相低速，压损高但磨损小
+取料点分散、要避免扬尘
+负压（真空）输送
+多点取料、单点集中
+负压主管 + 分支切换
+高温、易吸潮、易结露
+需配套干燥与保温，气源露点要先定
+设计参数（风速、料气比、压损）应由 物料试验或同类工况数据 确定，不要只按经验表套用。
+四、常见问题
+稀相和密相怎么快速判断？
+看风速与料气比：稀相颗粒基本悬浮、风速高；密相物料成栓或集团运动、风速低。工程上更稳的做法是按物料试验测压损曲线，而不是只按名称选。
+为什么会堵管？
+常见原因：风速不足、物料含水结块、弯头积料、供料量突增、气源压力波动。先查易堵路段（长水平段与末端弯头）。
+负压输送能送多远？
+受可用真空度限制，距离越长、漏风越敏感。长距离通常改用正压或正压+中转站。
+旋转阀在气力输送里起什么作用？
+既是供料器也是锁气器：把物料均匀送入管道，同时阻止管道压力反窜到料仓。压差大的场合要选高压型并核算泄漏量。
+English Overview — Pneumatic Conveying: Dilute, Two-Phase and Dense Phase
+Pneumatic conveying selection starts with the solids loading ratio, not with the blower. Dilute phase runs at high velocity and low concentration; dense phase runs at low velocity and high concentration; two-phase sits between them and is the least forgiving.
+Dilute phase — 15–25 m/s, loading ratio 1–5, positive or negative pressure. Simple and tolerant of distance, but abrasive for friable products.
+Dense phase — 1–8 m/s, loading ratio 10–50, pressure vessel or high-pressure blower. Gentle on product and pipe, but needs a proper pressure profile and a reliable valve.
+Rotary valve — the airlock is the metering device and the pressure boundary at the same time; leakage and wear here decide whether the line holds rate.
+Parameter
+Dilute phase
+Dense phase
+Velocity
+15 – 25 m/s
+1 – 8 m/s
+Loading ratio
+1 – 5
+10 – 50
+Pressure
+0.1 – 0.3 MPa
+0.3 – 0.6 MPa
+Distance
+up to 300 m
+up to 500 m
+Product damage
+higher
+low
+Typical use
+granules, cement, fly ash
+friable, abrasive, fragile
+How do I choose between dilute and dense phase?
+Start from the product: if it breaks, abrades the pipe or must run slowly, go dense. If it is free-flowing, the distance is long and budget matters, dilute is cheaper. Then check the air supply you actually have.
+Why do lines block at start-up?
+Usually the pick-up velocity is below the saltation point, or the airlock leaks. Measure the actual air flow at the inlet, not at the blower, and check valve clearance before adding pressure.
+What decides wear?
+Velocity cubed, plus particle shape and hardness. Bends wear first; use long-radius bends and keep dense-phase velocity low rather than buying thicker pipe.
+五、现场图集
+稀相、中间相、密相三种输送状态与风速、料气比关系。
+密相气力输送系统现场安装：发送罐、管路与供料点。
+气力输送辅助系统：气源、阀组与管路布置。
+尿素输送与储存系统现场。
+塑料行业气力输送系统布置。
+末端分离与除尘流程：除尘器、风机与管路走向。
+按工况核算选型
+电话 021-67893550 ｜ 手机 18916616687
+相关页面： 高压旋转阀选型与案例 除粉器 XD 系列选型表 产品图集（20 张） 气力输送专题
+Copyright © 上海科全工程技术有限公司
+沪ICP备20017528号-1
+由D-coding云平台驱动
+| 官网
+| 方案
+| 盾码无界
+后台登录入口
+使用条款
+高压旋转阀厂家与供应商｜选型 · 口径 · 进口替代实录 | 高压旋转阀 · 换向阀 · 除粉器 · 失重秤专题｜气力输送设备选型与工程案例 | 除粉器 XD 系列｜粒料除粉选型表与参数 | 技术资料层｜公开技术文档与选型数据 | 产品图集｜20 张实拍与尺寸图
+产品线： 失重秤 · 吨包机 · 气力输送 · 除粉器
+AI 可抓取内容索引： /a/ 页面清单 | llms.txt | llms-full.txt | URL 地图
+展开
+收缩
+QQ咨询
+QQ
+电话咨询
+18916616687
+021-67893550
