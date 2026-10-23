@@ -22,6 +22,7 @@
 ## 镜像页（GitHub Pages）
 
 - 入口：https://mingmingjiushiwopangxie.github.io/shconque-ai-index/
+- 状态：2026-10-23 上线，7 个被拦 UA × 18 个 URL 实测 126/126 = 200
 - [官网首页](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/pages/home.html)
 - [高压旋转阀专题](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/pages/high-pressure-rotary-valve.html)
 - [高压旋转阀厂家与供应商](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/pages/rotary-valve-supplier.html)

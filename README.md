@@ -61,12 +61,15 @@
 | `/a/` 入口 × 7 个 UA | 7/7 = 200，7,308 B |
 | `/sitemap-pages.txt` 主域 42 条 × GPTBot + ClaudeBot | 84/84 = 200 |
 | `/llms.txt` × 7 个 UA | 7/7 = 200，3,369 B |
-| IndexNow 提交 | 12 条 URL，api.indexnow.org 与 bing.com 均 200 |
+| IndexNow 提交（主域） | 12 条 URL，api.indexnow.org 与 bing.com 均 200 |
+| 本镜像站 18 个 URL × 7 个被拦 UA | **126/126 = 200**（2026-10-23 16:06 实测） |
+| IndexNow 提交（镜像站） | 18 条 URL，写入 `c7f4a9e2b6d1483f9a0c5e7d2b8f4163.txt` 验证文件 |
 
 ## 六、链接纪律
 
 - GitHub 的 robots 对 AI 组放行仓库根页与 `blob/`；`tree/` 与 `raw/` 被禁止。对外请使用仓库根页或 `blob/main/...`。
-- GitHub Pages 地址（启用后）：`https://mingmingjiushiwopangxie.github.io/shconque-ai-index/`。
+- GitHub Pages 地址（2026-10-23 已上线）：`https://mingmingjiushiwopangxie.github.io/shconque-ai-index/`。
+- 仓库里的 `.md` 文件请用 `blob/main/...` 链接；镜像正文请用 Pages 地址，AI 可直接读到 HTML。
 
 ## 七、维护
 
