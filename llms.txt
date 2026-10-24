@@ -50,6 +50,7 @@
 - 每页 canonical 指回 www.shconque.com 原页；这是“读得到”的旁路，不代表主域已对 AI 开放。
 - 索引页：https://mingmingjiushiwopangxie.github.io/shconque-ai-index/pages/product-news-index.html
 - 全量清单：https://mingmingjiushiwopangxie.github.io/shconque-ai-index/sitemap.xml
+- 纯文本清单：https://mingmingjiushiwopangxie.github.io/shconque-ai-index/sitemap-txt.xml（221 条 .txt，与详情页一一对应）
 - [长鸿高科广西贺州生物降解母粒产业园开工 - 上海科全工程技术有限公司](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/pages/news-88105.html)
 - [陕煤集团甘肃投资有限公司60万吨/年可降解材料项目建设进度 - 上海科全工程技术有限公司](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/pages/news-88104.html)
 - [科倍隆或者泽普林高压旋转阀与国产低压阀门的不同 - 上海科全工程技术有限公司](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/pages/news-841628.html)
