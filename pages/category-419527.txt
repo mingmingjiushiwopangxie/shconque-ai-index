@@ -8,8 +8,16 @@ Path: 工艺与装备
 
 工艺与装备板块：真空设备、高温阀门、切粒设备、节能环保装置与国际新工艺、新技术、新材料，为石化、化工与塑料改性装置提供配套装备与工艺方案。
 
-产品（0）：
-- 无
+产品（9）：
+- 以色列Laborsave公司快速清袋系统 (https://www.shconque.com/product/1221930/) [分类：国际新工艺新技术新材料]
+- B&W MEGTEC 公司 RTO系统 (https://www.shconque.com/product/1221923/) [分类：节能环保]
+- 美国施魏科SEWCO振动筛 (https://www.shconque.com/product/1221915/) [分类：国际新工艺新技术新材料]
+- 粉粒料装卸车集成系统 (https://www.shconque.com/product/1221913/) [分类：国际新工艺新技术新材料]
+- 克劳斯玛菲发泡剂PP挤出系统 (https://www.shconque.com/product/1220721/) [分类：国际新工艺新技术新材料]
+- 奥地利KVT公司高盐废水处理 (https://www.shconque.com/product/1220694/) [分类：节能环保]
+- NORDSON切粒机 (https://www.shconque.com/product/1220480/) [分类：切粒设备]
+- 德国宝沃高温阀门 (https://www.shconque.com/product/1220458/) [分类：高温阀门]
+- BUSCH普旭真空泵 (https://www.shconque.com/product/1220448/) [分类：真空设备]
 
 子分类：
 - 真空设备 (https://www.shconque.com/usercategory/product/419602/)

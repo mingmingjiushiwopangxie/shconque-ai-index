@@ -8,8 +8,24 @@ Path: 04 技术服务 / Service
 
 技术服务与工程案例：旋转阀与气力输送系统工程案例、技术讲座与资料、选型支持与资料下载，并提供德国旋转阀全生命周期维护与备件支持。
 
-产品（0）：
-- 无
+产品（17）：
+- 科倍隆开创称重检测系统 (https://www.shconque.com/product/1241800/) [分类：技术讲座与资料 / Technical Lectures & Resources]
+- 科倍隆开创计量输送基本原理 (https://www.shconque.com/product/1241799/) [分类：技术讲座与资料 / Technical Lectures & Resources]
+- PVC混配工厂的输送仓储与计量 (https://www.shconque.com/product/945717/) [分类：工程案例 / Engineering Cases]
+- 紧凑型炭黑输送配料系统 (https://www.shconque.com/product/945716/) [分类：工程案例 / Engineering Cases]
+- 塑料混配中碳酸钙的输送和计量 (https://www.shconque.com/product/945714/) [分类：工程案例 / Engineering Cases]
+- 混配造粒中的辅助输送系统 (https://www.shconque.com/product/945713/) [分类：工程案例 / Engineering Cases]
+- 木塑业输送与计量解决方案 (https://www.shconque.com/product/945712/) [分类：工程案例 / Engineering Cases]
+- 塑料行业输送系统 (https://www.shconque.com/product/945711/) [分类：工程案例 / Engineering Cases]
+- 尿素的输送和存储 (https://www.shconque.com/product/945710/) [分类：工程案例 / Engineering Cases]
+- 休闲食品加工领域的主料传输和称重 (https://www.shconque.com/product/945709/) [分类：工程案例 / Engineering Cases]
+- 食品原料通过高效配料和输送操作进入混合器 (https://www.shconque.com/product/945708/) [分类：工程案例 / Engineering Cases]
+- 科倍隆卡尔麦在塑料输送行业领域的应用说明 (https://www.shconque.com/product/945707/) [分类：工程案例 / Engineering Cases]
+- 科倍隆卡尔麦失重秤计量系统在无纺布行业应用说明 (https://www.shconque.com/product/945706/) [分类：工程案例 / Engineering Cases]
+- 科倍隆卡尔麦失重秤计量系统在长纤维增强塑料行业的应用 (https://www.shconque.com/product/945704/) [分类：工程案例 / Engineering Cases]
+- 科倍隆卡尔麦计量系统在塑料合成行业应用说明 (https://www.shconque.com/product/945703/) [分类：工程案例 / Engineering Cases]
+- 科倍隆卡尔麦失重秤计量系统在电力电缆行业应用说明 (https://www.shconque.com/product/945702/) [分类：工程案例 / Engineering Cases]
+- 科倍隆卡尔麦在合成洗涤行业应用 (https://www.shconque.com/product/945701/) [分类：工程案例 / Engineering Cases]
 
 子分类：
 - 工程案例 / Engineering Cases (https://www.shconque.com/usercategory/product/352536/)
