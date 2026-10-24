@@ -8,8 +8,17 @@ Path: 02 核心部件 / Components->换向阀 / Diverter Valves
 
 提供球密封型、活塞转轴型、摆动锤型、双通道型、圆柱转子型与多管路分布器六大类换向阀，压力等级 1~6bar，通径 DN50~DN500，用于粉粒料多管路切换输送。
 
-产品（0）：
-- 无
+产品（10）：
+- 科倍隆多管路分布器外形尺寸图 (https://www.shconque.com/product/319569/) [分类：多管路分布器 / Multi-Way Distributor]
+- Coperion科倍隆换向阀的选型和分类 (https://www.shconque.com/product/319470/) [分类：选型 / Selection Guide]
+- WGY1bar 重力落料型圆柱转子换向阀外形尺寸图 (https://www.shconque.com/product/319448/) [分类：重力落料型 / Gravity Drop Type]
+- WHT3bar 圆柱形转子换向阀 (https://www.shconque.com/product/319438/) [分类：WHT3bar 圆柱形转子换向阀]
+- WHK3bar 圆柱型转子换向阀 (https://www.shconque.com/product/319423/) [分类：圆柱转子型 / Cylindrical Rotor Type]
+- WZK2/5bar 双通道换向阀外形尺寸图 (https://www.shconque.com/product/319396/) [分类：双通道型 / Two-Channel Diverter]
+- WRK4bar 内部摆动锤型换向阀外形尺寸图 (https://www.shconque.com/product/319370/) [分类：内部摆动锤型 / Gravity Type]
+- WYK5bar 活塞式转轴换向阀 (https://www.shconque.com/product/319353/) [分类：活塞转轴型 / Plate Type]
+- WZT6bar 球密封换向阀 (https://www.shconque.com/product/319341/) [分类：球密封球型 / Ball Type]
+- WEK6bar 球型密封换向阀外形尺寸图 (https://www.shconque.com/product/319334/) [分类：球密封球型 / Ball Type]
 
 子分类：
 - 球密封球型 / Ball Type (https://www.shconque.com/usercategory/product/99264/)

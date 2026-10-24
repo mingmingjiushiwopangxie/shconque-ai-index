@@ -8,8 +8,48 @@ Path: 02 核心部件 / Components
 
 旋转阀、换向阀、除粉器三大部件族，覆盖 1.5~5.0 bar 工作压力与 DN50~ND800 全口径：粉料型旋转阀、高压旋转阀、耐磨旋转阀（WEARPROTECT 1~4）、高压底吹式旋转阀、双通道与板式/重力式/球型/Y 型/T 型换向阀、DeDuster 除粉器。
 
-产品（0）：
-- 无
+产品（41）：
+- 除粉器（XD-20~XD-90）作用、结构与选型 (https://www.shconque.com/product/4904642/) [分类：除粉器（DeDuster）XD-20~XD-90 / DeDuster XD-20 to XD-90]
+- Y 型与 T 型换向阀选型对照 (https://www.shconque.com/product/4904641/) [分类：换向阀（Y 型 / T 型） / Diverter Valves - Y Type & T Type]
+- 换向阀（板式 / 重力式 / 球型）结构与选型对照 (https://www.shconque.com/product/4904640/) [分类：换向阀（板式（筒式）/重力式/球型） / Diverter Valves - Plate, Gravity & Ball Type]
+- 双通道换向阀 5.0bar（ND65~ND250）规格与选型 (https://www.shconque.com/product/4904639/) [分类：换向阀（双通道）5.0bar ND65~ND250 / Twin-Channel Diverter Valve 5.0 bar, ND65-ND250]
+- 核心部件总览：旋转阀、换向阀与配套组件 (https://www.shconque.com/product/4904638/) [分类：核心部件总览 · 旋转阀与换向阀 / Components Overview - Rotary Valves & Diverter Valves]
+- 旋转阀（粉料型）ND200~ND500 规格与选型 (https://www.shconque.com/product/4904637/) [分类：旋转阀（粉料型）2.0bar ND200~ND500 / Rotary Valve (Powder Type) 2.0 bar, ND200-ND500]
+- 高压旋转阀 3.5bar（ND150~ND500）规格与选型 (https://www.shconque.com/product/4904636/) [分类：高压旋转阀 3.5bar ND150~ND500 / High-Pressure Rotary Valve 3.5 bar, ND150-ND500]
+- ZVB / ZVH 高压旋转阀技术参数总览：稀相与密相选型对照 (https://www.shconque.com/product/4904634/) [分类：ZVB / ZVH 高压旋转阀技术参数总览 · 稀相与密相选型对照 / ZVB-ZVH High-Pressure Rotary Valve Technical Data Overview]
+- 塑烧板除尘器 (https://www.shconque.com/product/4681632/) [分类：塑烧板除尘器 / Sintered Plate Dust Collector]
+- 智能仓储与散料运输 (https://www.shconque.com/product/4503805/) [分类：除尘设备 / Dust Collection]
+- 取样器外形尺寸图 (https://www.shconque.com/product/320339/) [分类：取样器 / Sampler]
+- 粉体冷却器外形尺寸图 (https://www.shconque.com/product/320337/) [分类：粉体冷却器 / Powder Cooler]
+- FCB3.5~250立方普通料仓掺混室外形尺寸图 (https://www.shconque.com/product/320335/) [分类：FCB3.5~250立方料仓配掺混室]
+- CFB3.5~1000立方脱气料仓清洗料仓配掺混室外形尺寸图 (https://www.shconque.com/product/320333/) [分类：CFB 3.5~1000立方料仓配掺混室]
+- 拉瓦尔气控单元外形尺寸图 (https://www.shconque.com/product/319874/) [分类：AQU 气控单元 / AQU (Air Quantity Unit)]
+- FUS1.5bar 滑板阀外形尺寸图 (https://www.shconque.com/product/319762/) [分类：FUS1.5bar 滑板阀]
+- FUH3.5bar 滑板阀外形尺寸图 (https://www.shconque.com/product/319677/) [分类：FUH3.5bar 滑板阀]
+- 科倍隆多管路分布器外形尺寸图 (https://www.shconque.com/product/319569/) [分类：多管路分布器 / Multi-Way Distributor]
+- Coperion科倍隆换向阀的选型和分类 (https://www.shconque.com/product/319470/) [分类：选型 / Selection Guide]
+- WGY1bar 重力落料型圆柱转子换向阀外形尺寸图 (https://www.shconque.com/product/319448/) [分类：重力落料型 / Gravity Drop Type]
+- WHT3bar 圆柱形转子换向阀 (https://www.shconque.com/product/319438/) [分类：WHT3bar 圆柱形转子换向阀]
+- WHK3bar 圆柱型转子换向阀 (https://www.shconque.com/product/319423/) [分类：圆柱转子型 / Cylindrical Rotor Type]
+- WZK2/5bar 双通道换向阀外形尺寸图 (https://www.shconque.com/product/319396/) [分类：双通道型 / Two-Channel Diverter]
+- WRK4bar 内部摆动锤型换向阀外形尺寸图 (https://www.shconque.com/product/319370/) [分类：内部摆动锤型 / Gravity Type]
+- WYK5bar 活塞式转轴换向阀 (https://www.shconque.com/product/319353/) [分类：活塞转轴型 / Plate Type]
+- WZT6bar 球密封换向阀 (https://www.shconque.com/product/319341/) [分类：球密封球型 / Ball Type]
+- WEK6bar 球型密封换向阀外形尺寸图 (https://www.shconque.com/product/319334/) [分类：球密封球型 / Ball Type]
+- 科倍隆阀站（含排气料斗旋转阀喂料靴加速室示意图） (https://www.shconque.com/product/319261/) [分类：旋转阀阀站]
+- 科倍隆旋转阀的选型分类 (https://www.shconque.com/product/319246/) [分类：选型与阀站 / Selection & Valve Stations]
+- ZVB1.5bar 防卡料旋转阀(闭式转子）外形尺寸图 (https://www.shconque.com/product/319154/) [分类：防卡料旋转阀 / Anti-Jamming Rotary Valve]
+- ZGM1.5bar 粒料配料旋转阀 (https://www.shconque.com/product/319147/) [分类：粒料配料旋转阀 / Pellet Dosing Rotary Valve]
+- ZVD1.5bar 防卡料旋转阀外形尺寸图 (https://www.shconque.com/product/319135/) [分类：ZVD1.5bar 防卡料旋转阀]
+- ZVH3.5bar 防卡料旋转阀外形尺寸图 (https://www.shconque.com/product/318960/) [分类：ZVH3.5bar 防卡料旋转阀]
+- ZKD 1.5bar 旋转阀（方法兰）外形尺寸图 (https://www.shconque.com/product/318957/) [分类：ZKD 1.5bar 旋转阀（方法兰）]
+- ZRD 1.5bar 旋转阀外形尺寸图 (https://www.shconque.com/product/318955/) [分类：标准旋转阀 1.5bar / Standard Rotary Valve]
+- ZXD1.5bar 贯通型旋转阀外形尺寸图 (https://www.shconque.com/product/318953/) [分类：ZXD1.5bar贯通型旋转阀]
+- ZAQ 3.5bar旋转阀外形尺寸图 (https://www.shconque.com/product/318940/) [分类：高压旋转阀 3.5bar / High-Pressure Rotary Valve]
+- ZXQ3.5bar旋转阀外形尺寸图 (https://www.shconque.com/product/318929/) [分类：贯通型旋转阀 / Through-Type Rotary Valve]
+- Coperion 科倍隆(详情请点击） (https://www.shconque.com/product/318810/) [分类：品牌总览 / Brand Overview]
+- Coperion阀门 (https://www.shconque.com/product/210212/) [分类：品牌总览 / Brand Overview]
+- 除尘设备 (https://www.shconque.com/product/210208/) [分类：除尘设备 / Dust Collection]
 
 子分类：
 - 核心部件总览 · 旋转阀与换向阀 / Components Overview - Rotary Valves & Diverter Valves (https://www.shconque.com/usercategory/product/678796/)

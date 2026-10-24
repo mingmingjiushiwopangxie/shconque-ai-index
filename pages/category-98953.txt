@@ -8,8 +8,9 @@ Path: 02 核心部件 / Components->掺混料仓 / Blending Silos
 
 CFB 3.5~1000 m³ 与 FCB 3.5~250 m³ 料仓配掺混室方案，用于 PP/PE 粒料与粉料的批次均化，减少色差与性能波动，含料位、流化与称重配套。
 
-产品（0）：
-- 无
+产品（2）：
+- FCB3.5~250立方普通料仓掺混室外形尺寸图 (https://www.shconque.com/product/320335/) [分类：FCB3.5~250立方料仓配掺混室]
+- CFB3.5~1000立方脱气料仓清洗料仓配掺混室外形尺寸图 (https://www.shconque.com/product/320333/) [分类：CFB 3.5~1000立方料仓配掺混室]
 
 子分类：
 - CFB 3.5~1000立方料仓配掺混室 (https://www.shconque.com/usercategory/product/99304/)

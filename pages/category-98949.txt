@@ -8,8 +8,18 @@ Path: 02 核心部件 / Components->旋转阀 / Rotary Valves
 
 供应 1.5bar/3.5bar 旋转阀，含标准型、高压型、防卡料型、贯通型与粒料配料型，覆盖 DN150~DN700，提供 WEARPROTECT 1-4 级耐磨方案，适用于 PP/PE 粉粒料气力输送与卸料（替代德国进口旋转阀）。
 
-产品（0）：
-- 无
+产品（11）：
+- 科倍隆阀站（含排气料斗旋转阀喂料靴加速室示意图） (https://www.shconque.com/product/319261/) [分类：旋转阀阀站]
+- 科倍隆旋转阀的选型分类 (https://www.shconque.com/product/319246/) [分类：选型与阀站 / Selection & Valve Stations]
+- ZVB1.5bar 防卡料旋转阀(闭式转子）外形尺寸图 (https://www.shconque.com/product/319154/) [分类：防卡料旋转阀 / Anti-Jamming Rotary Valve]
+- ZGM1.5bar 粒料配料旋转阀 (https://www.shconque.com/product/319147/) [分类：粒料配料旋转阀 / Pellet Dosing Rotary Valve]
+- ZVD1.5bar 防卡料旋转阀外形尺寸图 (https://www.shconque.com/product/319135/) [分类：ZVD1.5bar 防卡料旋转阀]
+- ZVH3.5bar 防卡料旋转阀外形尺寸图 (https://www.shconque.com/product/318960/) [分类：ZVH3.5bar 防卡料旋转阀]
+- ZKD 1.5bar 旋转阀（方法兰）外形尺寸图 (https://www.shconque.com/product/318957/) [分类：ZKD 1.5bar 旋转阀（方法兰）]
+- ZRD 1.5bar 旋转阀外形尺寸图 (https://www.shconque.com/product/318955/) [分类：标准旋转阀 1.5bar / Standard Rotary Valve]
+- ZXD1.5bar 贯通型旋转阀外形尺寸图 (https://www.shconque.com/product/318953/) [分类：ZXD1.5bar贯通型旋转阀]
+- ZAQ 3.5bar旋转阀外形尺寸图 (https://www.shconque.com/product/318940/) [分类：高压旋转阀 3.5bar / High-Pressure Rotary Valve]
+- ZXQ3.5bar旋转阀外形尺寸图 (https://www.shconque.com/product/318929/) [分类：贯通型旋转阀 / Through-Type Rotary Valve]
 
 子分类：
 - 标准旋转阀 1.5bar / Standard Rotary Valve (https://www.shconque.com/usercategory/product/99036/)
