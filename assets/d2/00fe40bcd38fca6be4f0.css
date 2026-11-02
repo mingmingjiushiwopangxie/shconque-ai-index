@@ -1,0 +1,9 @@
+@import url('kefu.css');
+.float0831 { right: 1px;}
+.float0831 .floatR,.float0831 .tp,.float0831 .cn,.float0831 .floatR,.float0831 .tp,.float0831 .cn {background-image: url(imgs/float_bg.gif);}
+.float0831 .titZx,.float0831 .titDh,.float0831 .titDc ,.float0831 .icoZx,.float0831 .icoTc,.float0831 .icoFf,.float0831 .icoTl,.float0831 .btnOpen,.float0831 .btnOpen_n,.float0831 .btnCtn {background-image: url(imgs/float_s.gif);}
+.float0831 UL.webZx { background-image: url(imgs/webZx_bg.jpg);}
+.float0831 UL LI.webZx-in a {background-image: url(imgs/right_float_web.png);}
+.float0831 .floatL { float: left;}
+.float0831 .btnCtn {left: 0;}
+.float0831 .btnOpen {left: 0;}

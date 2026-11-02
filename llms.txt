@@ -41,7 +41,8 @@
 
 - [AI 抓取入口](https://www.shconque.com/a/)
 - [官网首页旁路](https://www.shconque.com/a/home)
-- [URL 地图](https://www.shconque.com/sitemap-pages.txt)
+- [URL 地图（镜像 393 条）](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/sitemap.xml)
+- [主域入口清单（170 条 /a/ 层）](https://www.shconque.com/sitemap-pages.txt)
 - [llms.txt](https://www.shconque.com/llms.txt)
 
 ## 详情与分类快照（376 页，时点 2026-10-23 / 2026-10-24）
