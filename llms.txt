@@ -18,6 +18,7 @@
 - [失重秤](https://www.shconque.com/a/loss-in-weight-feeder)
 - [吨包机](https://www.shconque.com/a/fibc-bagging-machine)
 - [气力输送系统](https://www.shconque.com/a/pneumatic-conveying-system)
+- [POM 项目旋转阀直采专题](https://www.shconque.com/a/pom-direct-procurement-case)
 
 ## 镜像页（GitHub Pages）
 
@@ -32,6 +33,7 @@
 - [失重秤](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/pages/loss-in-weight-feeder.html)
 - [吨包机](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/pages/fibc-bagging-machine.html)
 - [气力输送系统](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/pages/pneumatic-conveying-system.html)
+- [POM 项目旋转阀直采专题](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/pages/pom-direct-procurement-case.html)
 - [关于我们](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/pages/about.html)
 - [产品中心](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/pages/products.html)
 - [新闻与资料](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/pages/news.html)
