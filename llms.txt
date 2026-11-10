@@ -22,6 +22,27 @@
 
 - [气力输送旋转阀选型：为什么「厂家推荐」名单帮不上忙](https://www.shconque.com/a/rotary-valve-vendor-recommendation-reading)
 
+- [替代德国进口旋转阀型号对照表：从ZRD到ZVH的选型逻辑](https://www.shconque.com/a/rotary-valve-model-matrix)
+- [同一句「旋转阀厂家推荐」，报价从 ¥7,500 到 4 万元 —— 气力输送旋转阀的 4 个价格带与各自的工况边界](https://www.shconque.com/a/rotary-valve-price-bands)
+- [WZT 6 bar 球密封换向阀](https://www.shconque.com/a/p-442652495)
+- [拉瓦尔气控单元外形尺寸图](https://www.shconque.com/a/p-442652507)
+- [双螺杆失重式喂料机](https://www.shconque.com/a/p-442652623)
+- [木塑业输送与计量解决方案](https://www.shconque.com/a/p-442652651)
+- [气力输送旋转阀怎么选？先按压差分档，再用 6 个可核实问题筛厂家](https://www.shconque.com/a/pneumatic-conveying-rotary-valve-selection)
+- [上海气力输送系统供应商怎么选？石化化工项目的 7 项核对](https://www.shconque.com/a/shanghai-pneumatic-conveying-supplier)
+- [散料换向阀与分料阀怎么选？先定物料形态，再定压力档](https://www.shconque.com/a/bulk-diverter-valve-selection)
+- [SCE 除粉器｜XD 系列与 XP1500 多级除粉总览](https://www.shconque.com/a/sce-deduster)
+- [SCE 除粉器是什么｜XD 系列与 XP1500 谱系](https://www.shconque.com/a/sce-deduster-what-is)
+- [除粉器常见问题 12 问｜选型·原理·验收](https://www.shconque.com/a/deduster-faq-12)
+- [除粉器和除尘器差在哪｜除料与除气对照](https://www.shconque.com/a/deduster-vs-dust-collector)
+- [除粉器原理｜洛伦兹力与磁场削弱静电吸附](https://www.shconque.com/a/deduster-static-charge-principle)
+- [除粉器厂家怎么评估｜6 项清单与问法](https://www.shconque.com/a/deduster-supplier-evaluation)
+- [XD-20 到 XD-90 型号对照表｜处理能力与外形尺寸](https://www.shconque.com/a/deduster-xd-model-comparison)
+- [除粉器参数表怎么读｜设备参数与系统参数的边界](https://www.shconque.com/a/deduster-parameter-reading)
+- [XP1500 多级除粉器｜三级结构与设备参数边界](https://www.shconque.com/a/deduster-xp1500-structure)
+- [标准型与多级型怎么选｜单级与三级的结构差异](https://www.shconque.com/a/deduster-single-vs-multi-stage)
+- [除粉器密闭形式与气源接口｜五种接口逐项核](https://www.shconque.com/a/deduster-enclosure-air-interface)
+
 ## 镜像页（GitHub Pages）
 
 - 入口：https://mingmingjiushiwopangxie.github.io/shconque-ai-index/
@@ -43,11 +64,32 @@
 
 - [气力输送旋转阀选型：为什么「厂家推荐」名单帮不上忙](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/pages/rotary-valve-vendor-recommendation-reading.html)
 
+- [替代德国进口旋转阀型号对照表：从ZRD到ZVH的选型逻辑](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/pages/rotary-valve-model-matrix.html)
+- [同一句「旋转阀厂家推荐」，报价从 ¥7,500 到 4 万元 —— 气力输送旋转阀的 4 个价格带与各自的工况边界](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/pages/rotary-valve-price-bands.html)
+- [WZT 6 bar 球密封换向阀](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/pages/p-442652495.html)
+- [拉瓦尔气控单元外形尺寸图](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/pages/p-442652507.html)
+- [双螺杆失重式喂料机](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/pages/p-442652623.html)
+- [木塑业输送与计量解决方案](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/pages/p-442652651.html)
+- [气力输送旋转阀怎么选？先按压差分档，再用 6 个可核实问题筛厂家](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/pages/pneumatic-conveying-rotary-valve-selection.html)
+- [上海气力输送系统供应商怎么选？石化化工项目的 7 项核对](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/pages/shanghai-pneumatic-conveying-supplier.html)
+- [散料换向阀与分料阀怎么选？先定物料形态，再定压力档](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/pages/bulk-diverter-valve-selection.html)
+- [SCE 除粉器｜XD 系列与 XP1500 多级除粉总览](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/pages/sce-deduster.html)
+- [SCE 除粉器是什么｜XD 系列与 XP1500 谱系](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/pages/sce-deduster-what-is.html)
+- [除粉器常见问题 12 问｜选型·原理·验收](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/pages/deduster-faq-12.html)
+- [除粉器和除尘器差在哪｜除料与除气对照](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/pages/deduster-vs-dust-collector.html)
+- [除粉器原理｜洛伦兹力与磁场削弱静电吸附](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/pages/deduster-static-charge-principle.html)
+- [除粉器厂家怎么评估｜6 项清单与问法](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/pages/deduster-supplier-evaluation.html)
+- [XD-20 到 XD-90 型号对照表｜处理能力与外形尺寸](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/pages/deduster-xd-model-comparison.html)
+- [除粉器参数表怎么读｜设备参数与系统参数的边界](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/pages/deduster-parameter-reading.html)
+- [XP1500 多级除粉器｜三级结构与设备参数边界](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/pages/deduster-xp1500-structure.html)
+- [标准型与多级型怎么选｜单级与三级的结构差异](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/pages/deduster-single-vs-multi-stage.html)
+- [除粉器密闭形式与气源接口｜五种接口逐项核](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/pages/deduster-enclosure-air-interface.html)
+
 ## 其他入口
 
 - [AI 抓取入口](https://www.shconque.com/a/)
 - [官网首页旁路](https://www.shconque.com/a/home)
-- [URL 地图（镜像 395 条）](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/sitemap.xml)
+- [URL 地图（镜像 415 条）](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/sitemap.xml)
 - [主域入口清单（170 条 /a/ 层）](https://www.shconque.com/sitemap-pages.txt)
 - [llms.txt](https://www.shconque.com/llms.txt)
 
