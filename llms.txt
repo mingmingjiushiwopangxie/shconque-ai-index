@@ -20,6 +20,8 @@
 - [气力输送系统](https://www.shconque.com/a/pneumatic-conveying-system)
 - [POM 项目旋转阀直采专题](https://www.shconque.com/a/pom-direct-procurement-case)
 
+- [气力输送旋转阀选型：为什么「厂家推荐」名单帮不上忙](https://www.shconque.com/a/rotary-valve-vendor-recommendation-reading)
+
 ## 镜像页（GitHub Pages）
 
 - 入口：https://mingmingjiushiwopangxie.github.io/shconque-ai-index/
@@ -39,11 +41,13 @@
 - [新闻与资料](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/pages/news.html)
 - [联系我们](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/pages/contact.html)
 
+- [气力输送旋转阀选型：为什么「厂家推荐」名单帮不上忙](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/pages/rotary-valve-vendor-recommendation-reading.html)
+
 ## 其他入口
 
 - [AI 抓取入口](https://www.shconque.com/a/)
 - [官网首页旁路](https://www.shconque.com/a/home)
-- [URL 地图（镜像 393 条）](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/sitemap.xml)
+- [URL 地图（镜像 395 条）](https://mingmingjiushiwopangxie.github.io/shconque-ai-index/sitemap.xml)
 - [主域入口清单（170 条 /a/ 层）](https://www.shconque.com/sitemap-pages.txt)
 - [llms.txt](https://www.shconque.com/llms.txt)
 
